@@ -1,16 +1,26 @@
-👋 Hi, I’m a Software Developer with 3+ years of experience building reliable, scalable, and user-focused applications.
-💻 I work across the software development stack and enjoy turning ideas into real-world solutions.
+Wizdom Nuel
+Software Developer
 
-🚀 Interests & Focus Areas
+I am a software developer with 3+ years of experience building reliable, scalable, and user-focused applications. I work across the full software development stack and focus on turning ideas into production-ready systems that solve real problems.
 
-Blockchain Development (Smart Contracts, Web3, Decentralized Apps)
+I care about clean architecture, system design, and long-term maintainability. I do not build demos for the sake of it, I build software meant to ship and scale.
 
-Artificial Intelligence & Machine Learning
+Areas of Focus
 
 Backend & API Development
 
-Problem-solving and system design
+System Design & Scalable Architectures
 
-🌱 Currently learning and experimenting with AI engineering and blockchain technologies to build the future of secure and intelligent systems.
+Blockchain Development (Smart Contracts, Web3, Decentralized Applications)
 
-📌 Always open to collaboration, innovative projects, and learning opportunities.
+Artificial Intelligence & Machine Learning
+
+Data-driven and product-oriented engineering
+
+Current Work & Learning
+
+I am actively deepening my work in AI engineering and blockchain technologies, with a focus on building secure, intelligent, and scalable systems that can support real-world products and businesses.
+
+Collaboration
+
+I am open to collaborating on serious projects, early-stage products, and long-term technical initiatives where engineering quality and execution matter.
